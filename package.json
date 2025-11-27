@@ -13,5 +13,10 @@
     "styled-components": "^6.1.8",
     "@fontsource/inter": "^5.0.0",
     "@fontsource/poppins": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0",
+    "@types/node": "^18.0.0"
   }
 }
